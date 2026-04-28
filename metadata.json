@@ -1,0 +1,6 @@
+{
+  "name": "Secure Blog Pro",
+  "description": "A high-performance blog management system with JWT authentication, role-based access control, and rich content management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
